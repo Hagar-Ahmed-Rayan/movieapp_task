@@ -1,6 +1,7 @@
 # movieapp
-
-A new Flutter project.
+ simple movie app task 
+video demo
+https://drive.google.com/file/d/1fwXILuS1oD8SzzgJ0MhUwSiHiVbpDFav/view?usp=sharing
 
 ## Getting Started
 
